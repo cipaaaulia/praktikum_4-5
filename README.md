@@ -28,6 +28,9 @@ Ketika algoritma BFS selesai, Anda akan dapat menemukan node 8, 6, dan 7 dengan 
 Dengan demikian, algoritma BFS akan menemukan node 8, 6, dan 7 secara berurutan sesuai dengan level kedekatan mereka dengan node awal n3 dalam graf yang direpresentasikan dalam kode di atas.
 
 
+![ai 1](https://github.com/cipaaaulia/ai-1/blob/a4ac139f20adc9841f86badc0b1756c5c294132b/ai%201.png)
+ 
+
 
 
 3. Mengubah  method static void main sehingga bentuk tree seperti Gambar 4.4 dapat dibentuk. Kemudian menentukan bagaimana algoritma BFS dapat menemukan node 5.
